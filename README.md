@@ -10,3 +10,5 @@ This app can **only** work on **ARM devices** because it only has arm libraries!
 [From Github](https://github.com/fR0Z863xF/fuuleaHD_MDM_Bypass/releases/tag/1.0.0.5)
 
 [From 蓝奏云 提取码: a8su ](https://www.lanzoul.com/iZn8Z0mkysza)
+
+[Original app download](http://download1.linspirer.com/download/2ad2a025-3ecf-b645-6cb3-0a9a3b08182f.apk)
