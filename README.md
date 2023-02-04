@@ -1,5 +1,5 @@
 # fuuleaHD_MDM_Bypass
-*A cracker version which allow you to use it withou LinspirerMDM  : )*
+*A cracked version which allow you to use it withou LinspirerMDM  : )*
 ## Features
 Bypass LinspirerMDM and root detection.So you don't need to install the annoying LinspirerMDM and take efforts to hide su ~~even though it just checks whether the su file exists~~.
 ## Hardware compatibility
