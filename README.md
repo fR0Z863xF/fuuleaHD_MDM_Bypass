@@ -7,7 +7,7 @@ This app can **only** work on **ARM devices** because it only has arm libraries!
 ## Software Compatibility
 SDKVersion >=23 (Android 6.0+)  
 ## NOTICE
-**The cracked app's debug options is set to true so it may be different to the original app.**  
+**The cracked app's debug options is set to true so it may be different from original app.**  
 ## Download
 [From Github](https://github.com/fR0Z863xF/fuuleaHD_MDM_Bypass/releases/tag/1.0.0.5)
 
