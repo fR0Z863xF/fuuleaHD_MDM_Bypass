@@ -10,8 +10,8 @@ SDKVersion >=23 (Android 6.0+)
 **The cracked app's debug options is set to true so it may be different from original app.**  
 
 ## Download
-最新版本v1.1，支持屏幕旋转，但因原软件未适配所以有严重问题，请务必以横屏启动！  
-[From Github](https://github.com/fR0Z863xF/fuuleaHD_MDM_Bypass/releases/latest)
+修改了资源文件以及和谐了权限请求（未经测试），如有bug请务必在issue中提出。
+[From Github](https://github.com/fR0Z863xF/fuuleaHD_MDM_Bypass/releases/)
 
 [From 蓝奏云 提取码: 6vxr ](https://www.lanzoul.com/b01egpilg)
 
