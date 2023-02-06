@@ -10,7 +10,7 @@ SDKVersion >=23 (Android 6.0+)
 **The cracked app's debug options is set to true so it may be different from original app.**  
 
 ## Download
-1.1.3去除了反馈字数限制以及反馈图片数量限制（图片框调太大了，不过你只要知道那是拍照上传用的就行），由于技术水平有限，删去权限和谐。  
+1.1.3去除了反馈字数限制以及反馈图片数量限制（图片框调太大了，拍照会闪退，没时间改了），由于技术水平有限，删去权限和谐。  
 这将是7月前最后一个release。  
 [From Github](https://github.com/fR0Z863xF/fuuleaHD_MDM_Bypass/releases/)
 
