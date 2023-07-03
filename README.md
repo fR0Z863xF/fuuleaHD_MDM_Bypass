@@ -1,6 +1,6 @@
 
 # fuuleaHD_MDM_Bypass
-*A cracked version which allow you to use it without LinspirerMDM  : )*
+*A cracked version which allow you to use it without LinspirerMDM  : )*  
 6.15由于api限制此方法已失效，不再更新，后续请参阅[此处](https://github.com/fR0Z863xF/fuulea_mdm_provider)
 ## Features
 Bypass LinspirerMDM and root detection.
